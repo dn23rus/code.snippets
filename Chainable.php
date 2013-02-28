@@ -19,7 +19,7 @@ class Chainable
     }
 
     /**
-     * PHP magic mathod
+     * PHP magic method
      *
      * @param string $method method name
      * @param array  $args   method arguments
